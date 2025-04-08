@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nguyen Huu Quy
 
-🎓 Final-year Computer Science student at Hutech University
+🎓 Final-year Software Engineering student at Hutech University
 💻 Passionate Web Developer
 
 ## 📚 About Me
